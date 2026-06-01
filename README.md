@@ -28,6 +28,30 @@ This project shifts the focus from building one AI model to measuring the portfo
 | Adoption Metrics | Active users, usage frequency, satisfaction score |
 | Operational KPIs | Ticket resolution, sales conversion, invoice cycle time, forecast accuracy |
 
+## Dashboard Screenshots
+
+### Executive Summary
+
+![Executive Summary](assets/screenshots/executive-summary1.png)
+
+![Executive Summary Scorecard](assets/screenshots/executive-summary2.png)
+
+### Financial Impact
+
+![Financial Impact](assets/screenshots/financial-impact.png)
+
+### Productivity
+
+![Productivity](assets/screenshots/productivity.png)
+
+### Adoption
+
+![Adoption](assets/screenshots/adoption.png)
+
+### Operational KPIs
+
+![Operational KPIs](assets/screenshots/operational-kpis.png)
+
 ## Data
 
 This project uses synthetic enterprise AI initiative data. Synthetic data is appropriate for this scenario because many companies use simulated or anonymized internal data when planning AI business cases and executive dashboards.
@@ -60,4 +84,3 @@ http://localhost:8501
 ## Why This Project Matters
 
 Many AI portfolios focus on model output, but executives need to understand business outcomes. This dashboard demonstrates how AI impact can be measured through ROI, adoption, productivity, cost savings, and operational performance.
-
