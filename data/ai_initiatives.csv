@@ -1,0 +1,17 @@
+initiative_id,initiative,department,quarter,investment_cost,cost_savings,revenue_uplift,hours_saved,automation_rate,response_time_reduction_pct,active_users,usage_frequency,satisfaction_score,primary_operational_kpi,kpi_before,kpi_after,status
+AI-001,Customer Support Chatbot,Customer Support,2025-Q1,85000,42000,12000,850,0.28,0.18,145,4.2,7.4,Ticket resolution time,18.0,14.5,Scaling
+AI-001,Customer Support Chatbot,Customer Support,2025-Q2,85000,68000,18000,1260,0.39,0.29,238,5.1,7.8,Ticket resolution time,18.0,11.8,Scaling
+AI-001,Customer Support Chatbot,Customer Support,2025-Q3,85000,91000,26000,1590,0.47,0.37,324,6.4,8.1,Ticket resolution time,18.0,9.9,Scaling
+AI-001,Customer Support Chatbot,Customer Support,2025-Q4,85000,117000,33000,1880,0.56,0.44,410,7.0,8.3,Ticket resolution time,18.0,8.7,Scaling
+AI-002,AI Sales Assistant,Sales,2025-Q1,72000,21000,38000,510,0.19,0.16,62,3.1,7.2,Lead conversion rate,0.22,0.24,Scaling
+AI-002,AI Sales Assistant,Sales,2025-Q2,72000,36000,61000,820,0.31,0.26,94,4.8,7.7,Lead conversion rate,0.22,0.27,Scaling
+AI-002,AI Sales Assistant,Sales,2025-Q3,72000,48000,88000,1120,0.43,0.33,128,5.6,8.0,Lead conversion rate,0.22,0.30,Scaling
+AI-002,AI Sales Assistant,Sales,2025-Q4,72000,64000,126000,1450,0.52,0.41,166,6.2,8.4,Lead conversion rate,0.22,0.33,Scaling
+AI-003,Invoice Automation,Finance,2025-Q1,56000,33000,0,640,0.34,0.22,38,3.6,7.0,Invoice cycle time,6.5,5.4,Optimizing
+AI-003,Invoice Automation,Finance,2025-Q2,56000,54000,0,980,0.48,0.36,56,4.5,7.5,Invoice cycle time,6.5,4.1,Optimizing
+AI-003,Invoice Automation,Finance,2025-Q3,56000,79000,0,1310,0.61,0.48,73,5.4,8.0,Invoice cycle time,6.5,3.2,Optimizing
+AI-003,Invoice Automation,Finance,2025-Q4,56000,103000,0,1640,0.70,0.57,85,6.0,8.2,Invoice cycle time,6.5,2.6,Optimizing
+AI-004,Demand Forecasting Model,Operations,2025-Q1,94000,18000,31000,300,0.12,0.05,24,2.4,6.8,Forecast accuracy,0.68,0.72,Early Pilot
+AI-004,Demand Forecasting Model,Operations,2025-Q2,94000,39000,57000,460,0.18,0.07,39,3.0,7.1,Forecast accuracy,0.68,0.76,Early Pilot
+AI-004,Demand Forecasting Model,Operations,2025-Q3,94000,62000,83000,670,0.25,0.10,55,3.8,7.5,Forecast accuracy,0.68,0.81,Scaling
+AI-004,Demand Forecasting Model,Operations,2025-Q4,94000,88000,112000,910,0.33,0.13,71,4.4,7.9,Forecast accuracy,0.68,0.84,Scaling
