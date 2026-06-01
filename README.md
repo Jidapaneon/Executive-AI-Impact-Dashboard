@@ -77,9 +77,9 @@ streamlit run src/app.py
 
 Then open the local Streamlit URL shown in the terminal, usually:
 
-```text
-[http://localhost:8501](https://executive-ai-impact-dashboard-jer62ja8wvtnfcuw46hlgp.streamlit.app/)
-```
+## Live Demo
+
+[Open the AI Sales Assistant Dashboard](https://executive-ai-impact-dashboard-jer62ja8wvtnfcuw46hlgp.streamlit.app)
 
 ## Why This Project Matters
 
