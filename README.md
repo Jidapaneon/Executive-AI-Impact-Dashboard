@@ -79,7 +79,7 @@ Then open the local Streamlit URL shown in the terminal, usually:
 
 ## Live Demo
 
-[Open the AI Executive AI Impact Dashboard](https://executive-ai-impact-dashboard-jer62ja8wvtnfcuw46hlgp.streamlit.app)
+[Open the Executive AI Impact Dashboard](https://executive-ai-impact-dashboard-jer62ja8wvtnfcuw46hlgp.streamlit.app)
 
 ## Why This Project Matters
 
