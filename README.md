@@ -84,3 +84,14 @@ Then open the local Streamlit URL shown in the terminal, usually:
 ## Why This Project Matters
 
 Many AI portfolios focus on model output, but executives need to understand business outcomes. This dashboard demonstrates how AI impact can be measured through ROI, adoption, productivity, cost savings, and operational performance.
+
+
+## Data Source
+
+This project uses synthetic enterprise AI transformation data created for demonstration purposes. The dataset simulates AI initiative performance across ROI, cost savings, revenue uplift, productivity, adoption, satisfaction, and operational KPIs.
+
+The data is synthetic and does not represent any real company.
+
+Data file:
+- [ai_initiatives.csv](data/ai_initiatives.csv)
+
